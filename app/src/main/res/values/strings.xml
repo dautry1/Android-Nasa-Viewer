@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">NASAviewer</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="shows_the_nasa_logo">shows the nasa logo</string>
+    <string name="pick_a_celestial_body">Pick a celestial body:</string>
+    <string name="view_nasa_access_log">View NASA Access Log</string>
+</resources>
